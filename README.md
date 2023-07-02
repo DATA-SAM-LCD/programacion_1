@@ -13,6 +13,13 @@ Si te gustaría aportar con recursos, resúmenes, parciales hecho y otras cosas 
 
 En ambas formas, si tenés dudas, podés contactarnos por Discord 🧉.
 
-## Colaboradores
+## Contribuidores
 
-wip
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
